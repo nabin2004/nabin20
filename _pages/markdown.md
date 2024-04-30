@@ -2,7 +2,6 @@
 ```
 Disclaimer: This repository is under construction
 ```
-Welcome to the **School of Data Science** repository of the Open Source University of AI (OSUAI). 
 
 <h1 align='center'>Mathematics</h1> 
 
