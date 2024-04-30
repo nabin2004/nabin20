@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nabin Oli | Wanna Be AI Leader"
+title                    : "Nabin Oli | Data Science"
 title_separator          : "-"
 name                     : &name "Nabin Oli"
 description              : &description "personal description"
