@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hello! Welcome to Nabin's Portfolio. Here he posts his blogs, achievements and other works. He is actively working as Intern Researcher at Center for Artificial Intelligence(AI) Research, Nepal. 
+Welcome to Nabin's Portfolio. Here he posts his blogs, achievements and other works. He is actively working as Intern Researcher at Center for Artificial Intelligence(AI) Research, Nepal. He is passionate Data Science Student currently studying BSc hons Computer and Data Science.
 
 Ongoing Projects
 ======
